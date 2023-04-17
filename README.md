@@ -10,5 +10,3 @@ Both datasets comprehend bookings due to arrive between the 1st of July of 2015 
 Since this is hotel real data, all data elements relevant hotel or costumer identification were deleted. 
 
 Due to the availability of real business data for scientific and educational purposes, these datasets can have an important role for research and education in revenue management, AI learning, as well as in other fields.
-![image](https://user-images.githubusercontent.com/32395313/232560783-479c6484-824a-41c6-a96e-fc2c49aa0dd8.png)
-
